@@ -1,5 +1,5 @@
 # Lab Continuity Plan
-Lab Continuity Plan in accordance with https://www.epfl.ch/campus/security-safety/en/health/coronavirus-covid19/. For the latest info check this link.
+[Information and Network Dynamics Lab (INDY)](indy.epfl.ch) Continuity Plan in accordance with https://www.epfl.ch/campus/security-safety/en/health/coronavirus-covid19/. For the latest info check this link.
 
 ## Location
 
@@ -10,9 +10,12 @@ Only teachers are authorized to come to campus to record streaming classes that 
 All other lab members are required to work strictly remotely.
 
 ## Remote Tools
-- :email: Email: [webmail](http://webmail.epfl.ch/) - [[more information](https://www.epfl.ch/campus/services/en/it-services/mail-lists-and-calendar/mail/configurations-and-support/)]
-- :calendar: Calendar: [calendar](https://ewa.epfl.ch/)  - [[more information](https://www.epfl.ch/campus/services/en/it-services/mail-lists-and-calendar/calendar/)]
-- :computer: Intranet (read :copyright:papers etc.): [configure EPFL VPN](https://www.epfl.ch/campus/services/en/it-services/network-services/remote-intranet-access/vpn-clients-available/)
+- :email: Email: [webmail link](http://webmail.epfl.ch/) - [[more information](https://www.epfl.ch/campus/services/en/it-services/mail-lists-and-calendar/mail/configurations-and-support/)]
+- :calendar: Calendar: [calendar link](https://ewa.epfl.ch/)  - [[more information](https://www.epfl.ch/campus/services/en/it-services/mail-lists-and-calendar/calendar/)]
+- :computer: Intranet (read :copyright:papers, iccluster, etc.): [[configure EPFL VPN](https://www.epfl.ch/campus/services/en/it-services/network-services/remote-intranet-access/vpn-clients-available/)]
+- :telephone_receiver: Calling: 
+- :movie_camera: Video Conferencing: [Zoom link](https://epfl.zoom.us/) - [[EPFL Zoom guidelines](https://www.epfl.ch/campus/services/en/it-services/unified-communications/videoconferencing/zoom/)]
+- IT problems/questions: [email](mailto:1234@epfl.ch) - [phone](tel:+41216931234)
 
 ## Communication & Meetings
 
@@ -23,7 +26,8 @@ All other lab members are required to work strictly remotely.
 ### :busts_in_silhouette: Meetings
 Concerned: supervisor meetings, lab meetings, project presentations
 - will take place on the time scheduled, unless communicated otherwise
-- :video_camera: via Zoom videoconferencing [[EPFL Zoom guidelines](https://www.epfl.ch/campus/services/en/it-services/unified-communications/videoconferencing/zoom/)]
+- :movie_camera: via Zoom videoconferencing [[EPFL Zoom guidelines](https://www.epfl.ch/campus/services/en/it-services/unified-communications/videoconferencing/zoom/)]
+- :coffee: 10am coffee meetups: https://epfl.zoom.us/j/174354359 (ask for INDY password on Slack)
 
 ## Administration
 
