@@ -32,7 +32,7 @@ All other lab members are required to work strictly remotely.
 - :calendar: Calendar: [calendar link](https://ewa.epfl.ch/)  - [[more information](https://www.epfl.ch/campus/services/en/it-services/mail-lists-and-calendar/calendar/)]
 - :computer: Intranet (read :copyright:papers, iccluster, etc.): [[configure EPFL VPN](https://www.epfl.ch/campus/services/en/it-services/network-services/remote-intranet-access/vpn-clients-available/)]
 - :telephone_receiver: Call Forwarding: [[Cisco Jabber iOS/Android/PC app setup](https://www.epfl.ch/campus/services/en/it-services/unified-communications/jabber-softphone/jabber-download/)]
-- IT problems/questions: [email](mailto:1234@epfl.ch) - [phone](tel:+41216931234)
+- IT problems/questions: [email](mailto:1234@epfl.ch) - phone (tel:+41216931234)
 
 ## Teaching
 - [EPFL online teaching guidelines](https://www.epfl.ch/education/educational-initiatives/online-lecturing/)
