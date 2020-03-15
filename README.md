@@ -13,7 +13,7 @@
 - [Teaching](#teaching)
 - [Communication & Meetings](#communication-and-meetings)
   * [:speech_balloon: General Communication](#speech_balloon-general-communication)
-  * [:busts_in_silhouette: Meetings](#busts-in-silhouette-meetings)
+  * [:busts_in_silhouette: Meetings](#busts_in_silhouette-meetings)
 - [Administration](#administration)
   * [:grey_question: Absences](#grey_question-absences-source)
 
@@ -22,6 +22,10 @@
 
 ### :office: Campus
 Only teachers are authorized to come to campus to record streaming classes that require a demonstration with lab equipment. This represents an imperative reason.
+
+:warning: Card access to EPFL will be suspended from Monday March 16 and all buildings will be off limits. All exceptional requests for access will be handled by the [DSPS Taks Force](https://www.epfl.ch/campus/security-safety/en/home/).
+
+:mailbox_with_mail: You should reschedule any delivery. The recommendation is minimally 2 weeks.
 
 ### :house: Off Campus
 All other lab members are required to work strictly remotely.
