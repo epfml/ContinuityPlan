@@ -39,7 +39,7 @@ All other lab members are required to work strictly remotely.
 - IT problems/questions: [email](mailto:1234@epfl.ch) - phone (tel:+41216931234)
 
 ## Teaching
-- [EPFL online teaching guidelines](https://www.epfl.ch/education/educational-initiatives/online-lecturing/)
+- [EPFL online teaching guidelines](go.epfl.ch/online-lecturing)
 - Webinars (March 14-20, 2020): [Zoom join link](https://epfl.zoom.us/j/5145141111)
 ![EPFL Zoom webinar schedule](https://www.epfl.ch/education/educational-initiatives/wp-content/uploads/2020/03/webinar-training-schedule-large.png)
 
