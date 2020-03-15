@@ -1,7 +1,7 @@
 # INDY Lab Continuity Plan
 [Information and Network Dynamics Lab (INDY)](indy.epfl.ch) Continuity Plan in accordance with https://www.epfl.ch/campus/security-safety/en/health/coronavirus-covid19/. For the latest info check this link.
 
-[![Generic badge](https://img.shields.io/badge/copying-allowed-green.svg)](https://shields.io/) [![GitHub license](https://img.shields.io/github/license/indy-lab/ContinuityPlan)](https://github.com/indy-lab/ContinuityPlan/blob/master/LICENSE) [![HitCount](http://hits.dwyl.com/indy-lab/ContinuityPlan.svg)](http://hits.dwyl.com/indy-lab/ContinuityPlan)
+[![Generic badge](https://img.shields.io/badge/copying-allowed-green.svg)] [![GitHub license](https://img.shields.io/github/license/indy-lab/ContinuityPlan)](https://github.com/indy-lab/ContinuityPlan/blob/master/LICENSE) [![HitCount](http://hits.dwyl.com/indy-lab/ContinuityPlan.svg)](http://hits.dwyl.com/indy-lab/ContinuityPlan)
 
 ## Table of Contents
 - [Location](#location)
