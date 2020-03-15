@@ -1,6 +1,18 @@
 # INDY Lab Continuity Plan
 [Information and Network Dynamics Lab (INDY)](indy.epfl.ch) Continuity Plan in accordance with https://www.epfl.ch/campus/security-safety/en/health/coronavirus-covid19/. For the latest info check this link.
 
+## Table of Contents
+- [Location](#location)
+  * [:office: Campus](#-office--campus)
+  * [:house: Off Campus](#-house--off-campus)
+- [Remote Tools](#remote-tools)
+- [Teaching](#teaching)
+- [Communication & Meetings](#communication---meetings)
+  * [:speech_balloon: General Communication](#-speech-balloon--general-communication)
+  * [:busts_in_silhouette: Meetings](#-busts-in-silhouette--meetings)
+- [Administration](#administration)
+  * [:grey_question: Absences](#-grey-question--absences---source--https---wwwepflch-campus-security-safety-en-health-coronavirus-covid19-human-resources---)
+
 ## Location
 
 ### :office: Campus
@@ -16,6 +28,12 @@ All other lab members are required to work strictly remotely.
 - :computer: Intranet (read :copyright:papers, iccluster, etc.): [[configure EPFL VPN](https://www.epfl.ch/campus/services/en/it-services/network-services/remote-intranet-access/vpn-clients-available/)]
 - :telephone_receiver: Call Forwarding: [[Cisco Jabber iOS/Android/PC app setup](https://www.epfl.ch/campus/services/en/it-services/unified-communications/jabber-softphone/jabber-download/)]
 - IT problems/questions: [email](mailto:1234@epfl.ch) - [phone](tel:+41216931234)
+
+## Teaching
+- [EPFL online teaching guidelines](https://www.epfl.ch/education/educational-initiatives/online-lecturing/)
+- Webinars (March 14-20, 2020): [Zoom join link](https://epfl.zoom.us/j/5145141111)
+![EPFL Zoom webinar schedule](https://www.epfl.ch/education/educational-initiatives/wp-content/uploads/2020/03/webinar-training-schedule-large.png)
+
 
 ## Communication & Meetings
 
