@@ -1,7 +1,7 @@
 # INDY Lab Continuity Plan
 [Information and Network Dynamics Lab (INDY)](indy.epfl.ch) Continuity Plan in accordance with https://www.epfl.ch/campus/security-safety/en/health/coronavirus-covid19/. For the latest info check this link.
 
-[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
+[![HitCount](http://hits.dwyl.com/indy-lab/ContinuityPlan.svg)](http://hits.dwyl.com/indy-lab/ContinuityPlan)
 
 ## Table of Contents
 - [Location](#location)
