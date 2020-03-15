@@ -7,8 +7,8 @@
   * [:house: Off Campus](#-house--off-campus)
 - [Remote Tools](#remote-tools)
 - [Teaching](#teaching)
-- [Communication & Meetings](#communication---meetings)
-  * [:speech_balloon: General Communication](#-speech-balloon--general-communication)
+- [Communication & Meetings](#communication-and-meetings)
+  * [:speech_balloon: General Communication](#speech_balloon-general-communication)
   * [:busts_in_silhouette: Meetings](#-busts-in-silhouette--meetings)
 - [Administration](#administration)
   * [:grey_question: Absences](#-grey-question--absences---source--https---wwwepflch-campus-security-safety-en-health-coronavirus-covid19-human-resources---)
@@ -35,7 +35,7 @@ All other lab members are required to work strictly remotely.
 ![EPFL Zoom webinar schedule](https://www.epfl.ch/education/educational-initiatives/wp-content/uploads/2020/03/webinar-training-schedule-large.png)
 
 
-## Communication & Meetings
+## Communication and Meetings
 
 ### :speech_balloon: General Communication
 - :email: email @epfl.ch
