@@ -43,7 +43,7 @@ All other lab members are required to work strictly remotely.
 ## Communication and Meetings
 
 ### :speech_balloon: General Communication
-- :email: email @epfl.ch
+- :email: [indy@groupes.epfl.ch](mailto:indy@groupes.epfl.ch)
 - :signal_strength: [indy-lab.slack.com](https://indy-lab.slack.com)
 
 ### :busts_in_silhouette: Meetings
