@@ -3,15 +3,15 @@
 
 ## Table of Contents
 - [Location](#location)
-  * [:office: Campus](#-office--campus)
-  * [:house: Off Campus](#-house--off-campus)
+  * [:office: Campus](#office-campus)
+  * [:house: Off Campus](#house-off-campus)
 - [Remote Tools](#remote-tools)
 - [Teaching](#teaching)
 - [Communication & Meetings](#communication-and-meetings)
   * [:speech_balloon: General Communication](#speech_balloon-general-communication)
-  * [:busts_in_silhouette: Meetings](#-busts-in-silhouette--meetings)
+  * [:busts_in_silhouette: Meetings](#busts-in-silhouette-meetings)
 - [Administration](#administration)
-  * [:grey_question: Absences](#-grey-question--absences---source--https---wwwepflch-campus-security-safety-en-health-coronavirus-covid19-human-resources---)
+  * [:grey_question: Absences](#grey_question-absences)
 
 ## Location
 
