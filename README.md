@@ -1,7 +1,7 @@
 # INDY Lab Continuity Plan
 [Information and Network Dynamics Lab (INDY)](indy.epfl.ch) Continuity Plan in accordance with https://www.epfl.ch/campus/security-safety/en/health/coronavirus-covid19/. For the latest info check this link.
 
-[![Generic badge](https://img.shields.io/badge/copying-allowed-green.svg)](https://github.com/indy-lab/ContinuityPlan/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/indy-lab/ContinuityPlan)](https://github.com/indy-lab/ContinuityPlan/blob/master/LICENSE) [![HitCount](http://hits.dwyl.com/indy-lab/ContinuityPlan.svg)](http://hits.dwyl.com/indy-lab/ContinuityPlan)
+[![Generic badge](https://img.shields.io/badge/copying-allowed-green.svg)](https://github.com/indy-lab/ContinuityPlan/blob/master/LICENSE) [![GitHub license](https://img.shields.io/github/license/indy-lab/ContinuityPlan)](https://github.com/indy-lab/ContinuityPlan/blob/master/LICENSE) [![HitCount](http://hits.dwyl.com/indy-lab/ContinuityPlan.svg)](http://hits.dwyl.com/indy-lab/ContinuityPlan) [![EPFL badge](https://img.shields.io/badge/Built%20at-EPFL-firebrick)](http://www.epfl.ch)
 
 ## Table of Contents
 - [Location](#location)
@@ -15,6 +15,7 @@
 - [Administration](#administration)
   * [:grey_question: Absences](#grey_question-absences-source)
 
+([TOC generator](https://ecotrust-canada.github.io/markdown-toc/))
 ## Location
 
 ### :office: Campus
