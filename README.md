@@ -5,6 +5,8 @@
 
 (keep these badges when copying)
 
+:warning: EPFL considers it an **absolute priority** that you be able to take care of your children and other loved ones. Professional priorities must therefore be reassessed, and you should talk to your head of service about the amount of work you can do remotely based on your personal situation. EPFL will be flexible.
+
 ## Table of Contents
 - [Location](#location)
   * [:office: Campus](#office-campus)
@@ -21,9 +23,7 @@
 ## Location
 
 ### :office: Campus
-Only teachers are authorized to come to campus to record streaming classes that require a demonstration with lab equipment. This represents an imperative reason.
-
-:warning: Card access to EPFL will be suspended from Monday March 16 and all buildings will be off limits. All exceptional requests for access will be handled by the [DSPS Taks Force](https://www.epfl.ch/campus/security-safety/en/home/).
+Card access to EPFL will be suspended from Monday March 16 and all buildings will be off limits. EPFL now requires all staff to work remotely until further notice. No one is allowed on site, apart from those who have been granted an exception by the DSPS.
 
 :mailbox_with_mail: You should reschedule any delivery. The recommendation is minimally 2 weeks.
 
@@ -39,10 +39,11 @@ All other lab members are required to work strictly remotely.
 - IT problems/questions: [email](mailto:1234@epfl.ch) - phone (tel:+41216931234)
 
 ## Teaching
+- [Hands-on tutorial for our use-case](https://github.com/indy-lab/ContinuityPlan/blob/master/TEACHING.md)
 - [EPFL online teaching guidelines](https://go.epfl.ch/online-lecturing)
-- Webinars (March 14-20, 2020): [Zoom join link](https://epfl.zoom.us/j/5145141111)
+- Webinars with Q&A (March 14-20, 2020): [Zoom join link](https://epfl.zoom.us/j/5145141111)
 ![EPFL Zoom webinar schedule](https://www.epfl.ch/education/educational-initiatives/wp-content/uploads/2020/03/webinar-training-schedule-large.png)
-- [Hands-on tutorial for our use-case](https://github.com/indy-lab/ContinuityPlan/TEACHING.md)
+
 
 ## Communication and Meetings
 
